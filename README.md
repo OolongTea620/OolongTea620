@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @OolongTea620, backend developer
 <!-- - 👀  -->
 - 🌱 study     
-javascript, Node.js, data structure algorithm and backend architecture
+Javascript, Node.js, Java, Python, SQL  
+Data structure, Algorithm and Backend architecture
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📝 log   
 **velog**: https://velog.io/@rlafls9596
