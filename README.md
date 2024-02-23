@@ -1,14 +1,15 @@
-- 👋 Hi, I’m @OolongTea620, backend developer
+👋 백엔드 개발자 김혜린 입니다.
 <!-- - 👀  -->
+
+🧰 Skills
 
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📝 log   
+📝 Blog   
 **velog**: https://velog.io/@rlafls9596
  
-- 📫  contect   
-rlafls9596@gmail.com  
-he9596@naver.com
+📫 contect   
+rlafls9596@gmail.com <br>
 
 <!---
 OolongTea620/OolongTea620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
